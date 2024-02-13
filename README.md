@@ -1,4 +1,4 @@
-# Citadel and Citadel Securities Womens' Datathon
+# Citadel and Citadel Securities Women's Datathon
 
 ## February 10th, 2024
 
