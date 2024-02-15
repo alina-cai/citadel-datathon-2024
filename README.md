@@ -7,7 +7,11 @@
 ## Team 8
 
 ### About Us
-Four students from MIT and Waterloo, majoring in CS, AI, Physics, and Math.
+Four students from MIT and Waterloo, majoring in AI, Physics, Math, and CS. Teammates:
+[Shiqi Cheng](https://www.linkedin.com/in/shiqi-cheng-b17b61294/)
+[Lily Sun](https://www.linkedin.com/in/lilysun004/)
+[Alina Cai](https://www.linkedin.com/in/alina-cai/)
+Claire Zhang
 
 ### Datathon Description
 Highly selective datathon hosted by Citadel, Citadel Securities and Correlation-One for students passionate about data science and quantitative research from top universities around the world. A total of 80 competitors were selected out of a couple thousand applicants.
